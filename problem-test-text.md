@@ -15,7 +15,7 @@ We have collected the following data sources (assume each is available to you in
 5. **Population and Building Footprints** – vector datasets (with population estimates and building types).
 6. **Rainfall Data** – time-series CSVs (daily totals per station).
 
-Your task is to **design and describe a complete workflow** for creating a *regional flood risk index* combining these datasets.
+Your task is to **describe a possible workflow** for creating a *regional flood risk index* combining these datasets.
 
 ---
 
@@ -50,3 +50,4 @@ Describe how you would:
 
 
 ---
+
