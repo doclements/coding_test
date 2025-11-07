@@ -1,5 +1,5 @@
 
-## 🧭 Problem Statement: Flood Risk Data Integration and Analysis
+## Problem Statement: Flood Risk Data Integration and Analysis
 
 ### Background
 
@@ -47,5 +47,6 @@ Describe how you would:
 
    * Describe how you would visualize outputs.
    * How would you ensure your process is reproducible and well-documented for other team members?
+
 
 ---
